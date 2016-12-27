@@ -31,9 +31,9 @@ return {
 	"کــــــــــیرر",
     "kir",
 	"kos",
-	"سیکتیر",
-	"siktir",
-	"جنده",
+	"گوساله",
+	"gosale",
+	"gusale",
   },
   run = run
 }
